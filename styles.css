@@ -1,0 +1,52 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #000000;
+    background-color:rgb(255, 239, 246);
+}
+li {
+    font-size: 28px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+color: rgb(19, 20, 68);
+text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+/* this is for when a website has already been clicked on */
+a:visited {
+    color: rgb(242, 0, 255);
+}
+
+p {color: rgb(105, 0, 128);
+    
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify{text-align: justify;}
+
+.box1 {
+border-width: 1px;
+border-style: solid;
+border-color: gray;
+
+/* border: 1px solid red; */
+
+}
+.box2 {
+    padding: 5px;
+}
+.box3 {
+    margin: 50px;
+}
+
